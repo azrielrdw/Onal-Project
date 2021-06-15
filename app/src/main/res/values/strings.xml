@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Onal</string>
+    <string name="upload_content">Preview File</string>
+    <string name="select_file">Select File</string>
+    <string name="upload">Upload</string>
+    <string name="hello">Hello</string>
+    <string name="user">User</string>
+    <string name="search_elements">Search elements</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="music">Music</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="download">Download</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+    <string name="file_name">File Name</string>
+    <string name="file_path">File Path</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="sign_in">Sign In</string>
+    <string name="feedback">Feedback</string>
+    <string name="file_download">Download</string>
+    <!-- Strings related to user menu -->
+    <string name="upload_new">Upload Content</string>
+    <string name="download_new">Download Content</string>
+    <string name="feedback_new">Rate Us</string>
+    <!-- Strings related to login menu -->
+    <string name="onallogo">OnalLogo</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="or">OR</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="not_on_onal_yet">NOT ON ONAL YET?</string>
+</resources>
